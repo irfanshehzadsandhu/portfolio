@@ -3551,7 +3551,7 @@ No matching component was found for:
           max-w-7xl mx-auto flex flex-row items-start
           justify-between gap-3`,children:[te.jsxs("div",{className:"flex flex-col justify-center items-center mt-5 ml-3",children:[te.jsx("div",{className:"w-5 h-5 rounded-full bg-[#0a0a0a] sm:hidden"}),te.jsx("div",{className:"w-1 sm:h-80 h-40 bw-gradient sm:hidden"})]}),te.jsxs("div",{children:[te.jsxs("h1",{className:`${ii.heroHeadText} text-eerieBlack font-poppins uppercase`,children:["Hi, I'm"," ",te.jsx("span",{className:`sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
-                font-extrabold uppercase`,children:"Irfan"})]}),te.jsx("p",{className:`${ii.heroSubText} mt-2 text-eerieBlack`,children:"Fullstack Develpor | Ruby on Rails | React | Next.js | Node.js | React Native"})]}),te.jsx("div",{className:`w-screen flex flex-col items-start 
+                font-extrabold uppercase`,children:"Irfan"})]}),te.jsx("p",{className:`${ii.heroSubText} mt-2 text-eerieBlack`,children:"Fullstack Developer | Ruby on Rails | React | Next.js | Node.js | React Native"})]}),te.jsx("div",{className:`w-screen flex flex-col items-start 
             justify-center sm:-ml-[3rem] xxs:mt-4`}),te.jsx("div",{})]}),te.jsx("div",{className:`absolute xs:bottom-10 bottom-32 w-full 
           flex justify-center items-center`,children:te.jsx("a",{href:"#about",children:te.jsx("div",{className:`w-[35px] h-[64px] rounded-3xl border-4 
             border-french border-dim flex
